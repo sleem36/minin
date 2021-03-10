@@ -1,0 +1,30 @@
+{
+  "name": "minin",
+  "version": "1.0.0",
+  "description": "practika",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleem36/minin.git"
+  },
+  "keywords": [
+    "js",
+    "git",
+    "webpack"
+  ],
+  "author": "sleem81",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sleem36/minin/issues"
+  },
+  "homepage": "https://github.com/sleem36/minin#readme",
+  "devDependencies": {
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0"
+  }
+}
